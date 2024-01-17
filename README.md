@@ -4,9 +4,13 @@
 
 python==3.7.13    
 scipy==1.7.3
+
 numpy==1.20.0
+
 pandas==1.3.5
-networkx==2.6.3                          
+
+networkx==2.6.3  
+
 pytorch==1.13.1          
 rdkit==2023.3.2                           
 torch-geometric==1.7.0                    
